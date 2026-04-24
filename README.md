@@ -27,7 +27,7 @@
 ### ✅ 필수 요건
 
 - [결과화면](https://next-netflix-21th-suyoungswim.vercel.app/)의 랜딩 페이지와 메인 페이지를 구현합니다.
-- Figma의 디자인을 그대로 구현합니다.
+- [Figma](https://www.figma.com/design/t9UWQMvti88h5oXkXYkc1r/Netflix-Figma?node-id=0-1&m=dev&t=RMIJ6HupyivB6i21-1)의 디자인을 그대로 구현합니다.
 - Open api를 사용해서 데이터 패칭을 진행합니다. (ex. [themoviedb API](https://developers.themoviedb.org/3/getting-started/introduction))
 - `yarn`, `yarn berry`, `npm`, `pnpm`등 패키지 매니저를 직접 선택해 Next.js를 세팅해 봅니다.
 
